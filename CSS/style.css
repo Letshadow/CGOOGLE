@@ -50,7 +50,7 @@ svg.IC{
     height:43vh; /* se usa vw para mantener proporciones */
 }
 /*--------LOGO--------*/
-.LOG{
+#logo{
     display: flex;
     justify-content:center;
     align-items:end;
@@ -80,7 +80,7 @@ svg.IC{
     border:1px solid #5f6368;
     border-radius: 24px;
 }
-.B_Input{
+#input-search{
     margin-right: 3%;
     width: 72%;
     border: none;
